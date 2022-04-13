@@ -3,7 +3,7 @@ const chain = 'rinkeby'; // rinkeby or polygon
 
 const welcome_h1 = "Welcome to the b2k2 robot NFT Project!!";
 const welcome_h2 = "Connect to MetaMask to Get Started";
-const welcome_p = 'The b2k2 NFT Project is a decentralized, open-source project.';
+const welcome_p = 'The b2k2 NFT Project is a decentralized, open-source project of NFT Collection.';
 const h1_presale_coming_soon = "NFT Pre-sale Coming Soon!!";
 const h1_presale_mint = "Pre-Sale Minting Open!!";
 const h1_public_mint = "Public Minting Open!!";
