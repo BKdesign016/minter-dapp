@@ -1,9 +1,9 @@
-const contractAddress = "0x7e0420D441044A92941b7669FD1717fF846A7e13"; //Replace with your own contract address
-const chain = 'polygon'; // rinkeby or polygon
+const contractAddress = "0x1075AE491F5fFbb47a245518bc7863f081C28f2C"; //Replace with your own contract address
+const chain = 'rinkeby'; // rinkeby or polygon
 
 const welcome_h1 = "Welcome to the b2k2 robot NFT Project!!";
 const welcome_h2 = "Connect to MetaMask to Get Started";
-const welcome_p = 'The b2k2 NFT Project is a decentralized, open-source project of NFT Collection on Polygon.';
+const welcome_p = 'The b2k2 NFT Project is a decentralized, open-source project of NFT Collection.';
 const h1_presale_coming_soon = "NFT Drop Coming Soon!!";
 const h1_presale_mint = "Pre-Sale Minting Open!!";
 const h1_public_mint = "Public Minting Open!!";
